@@ -163,9 +163,13 @@ python irish_news_nlp_topic_classification_+_sentiment.py
 ![](Screenshot/06_sentiment_distribution_by_topic.png)
 
 ---
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/76952b18-e6eb-45a3-835c-3aa7294bfc2f
+
+---
 
 ## ✍️ Author
 
 **Abinash Prasana**  
-Irish-based student exploring practical **NLP & Machine Learning** projects.
 
